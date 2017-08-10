@@ -7,21 +7,63 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1414BDB21F2F0E26005EA8C1 /* ReqIDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1414BDB11F2F0E26005EA8C1 /* ReqIDViewController.swift */; };
+		1414BDB41F2F0E3D005EA8C1 /* RoomTypeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1414BDB31F2F0E3D005EA8C1 /* RoomTypeViewController.swift */; };
+		1414BDB61F2F0E52005EA8C1 /* RoomSectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1414BDB51F2F0E52005EA8C1 /* RoomSectionViewController.swift */; };
+		1414BDB81F2F0E6B005EA8C1 /* ResDateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1414BDB71F2F0E6B005EA8C1 /* ResDateViewController.swift */; };
+		1414BDBA1F2F0E7D005EA8C1 /* ExpierDateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1414BDB91F2F0E7D005EA8C1 /* ExpierDateViewController.swift */; };
+		14401A071F3B30E200743F68 /* ViewFemelRoomsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14401A061F3B30E200743F68 /* ViewFemelRoomsViewController.swift */; };
+		14401A091F3B312800743F68 /* ViewMaleRoomsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14401A081F3B312800743F68 /* ViewMaleRoomsViewController.swift */; };
+		14401A0B1F3B6CDD00743F68 /* ToMoneyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14401A0A1F3B6CDD00743F68 /* ToMoneyViewController.swift */; };
+		14658F711F3999E100F411F9 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14658F701F3999E100F411F9 /* StartViewController.swift */; };
+		14658F731F399C7F00F411F9 /* CondiationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14658F721F399C7F00F411F9 /* CondiationViewController.swift */; };
+		147BA0401F39FEA100A0DCE9 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147BA03F1F39FEA000A0DCE9 /* TestViewController.swift */; };
+		149DAFD11F39B486006C8911 /* WarintyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149DAFD01F39B486006C8911 /* WarintyViewController.swift */; };
+		149DAFD31F39B552006C8911 /* InstructionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149DAFD21F39B552006C8911 /* InstructionViewController.swift */; };
+		14CEFC341F2E52F00082A22E /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CEFC331F2E52F00082A22E /* OtherViewController.swift */; };
+		14CEFC361F2E56220082A22E /* viewRoomsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CEFC351F2E56220082A22E /* viewRoomsViewController.swift */; };
+		14CEFC381F2E5C600082A22E /* RoomResViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CEFC371F2E5C600082A22E /* RoomResViewController.swift */; };
+		14CEFC3A1F2E770F0082A22E /* viewMyStateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CEFC391F2E770F0082A22E /* viewMyStateViewController.swift */; };
 		14DE6DAE1F2DC39000A53350 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE6DAD1F2DC39000A53350 /* AppDelegate.swift */; };
-		14DE6DB01F2DC39100A53350 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE6DAF1F2DC39100A53350 /* ViewController.swift */; };
 		14DE6DB31F2DC39100A53350 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14DE6DB11F2DC39100A53350 /* Main.storyboard */; };
 		14DE6DB51F2DC39100A53350 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14DE6DB41F2DC39100A53350 /* Assets.xcassets */; };
 		14DE6DB81F2DC39100A53350 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14DE6DB61F2DC39100A53350 /* LaunchScreen.storyboard */; };
+		14DE6DC01F2DC73E00A53350 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE6DBF1F2DC73C00A53350 /* LoginViewController.swift */; };
+		14DE6DC21F2DCB2D00A53350 /* ForgetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE6DC11F2DCB2D00A53350 /* ForgetPasswordViewController.swift */; };
+		14DE6DC41F2DCBBB00A53350 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14DE6DC31F2DCBBB00A53350 /* RegisterViewController.swift */; };
+		21D50B8DC10127BB05EA2730 /* Pods______.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB5FC5E6B6E77FB9C38BDDC1 /* Pods______.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1414BDB11F2F0E26005EA8C1 /* ReqIDViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReqIDViewController.swift; sourceTree = "<group>"; };
+		1414BDB31F2F0E3D005EA8C1 /* RoomTypeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomTypeViewController.swift; sourceTree = "<group>"; };
+		1414BDB51F2F0E52005EA8C1 /* RoomSectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomSectionViewController.swift; sourceTree = "<group>"; };
+		1414BDB71F2F0E6B005EA8C1 /* ResDateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResDateViewController.swift; sourceTree = "<group>"; };
+		1414BDB91F2F0E7D005EA8C1 /* ExpierDateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpierDateViewController.swift; sourceTree = "<group>"; };
+		14401A061F3B30E200743F68 /* ViewFemelRoomsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewFemelRoomsViewController.swift; path = ../ViewFemelRoomsViewController.swift; sourceTree = "<group>"; };
+		14401A081F3B312800743F68 /* ViewMaleRoomsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewMaleRoomsViewController.swift; path = ../ViewMaleRoomsViewController.swift; sourceTree = "<group>"; };
+		14401A0A1F3B6CDD00743F68 /* ToMoneyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ToMoneyViewController.swift; path = ../ToMoneyViewController.swift; sourceTree = "<group>"; };
+		14658F701F3999E100F411F9 /* StartViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StartViewController.swift; path = ../StartViewController.swift; sourceTree = "<group>"; };
+		14658F721F399C7F00F411F9 /* CondiationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CondiationViewController.swift; sourceTree = "<group>"; };
+		147BA03F1F39FEA000A0DCE9 /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TestViewController.swift; path = "خلوتي/TestViewController.swift"; sourceTree = "<group>"; };
+		149DAFD01F39B486006C8911 /* WarintyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WarintyViewController.swift; path = ../WarintyViewController.swift; sourceTree = "<group>"; };
+		149DAFD21F39B552006C8911 /* InstructionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructionViewController.swift; sourceTree = "<group>"; };
+		14CEFC331F2E52F00082A22E /* OtherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
+		14CEFC351F2E56220082A22E /* viewRoomsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = viewRoomsViewController.swift; sourceTree = "<group>"; };
+		14CEFC371F2E5C600082A22E /* RoomResViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomResViewController.swift; sourceTree = "<group>"; };
+		14CEFC391F2E770F0082A22E /* viewMyStateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = viewMyStateViewController.swift; sourceTree = "<group>"; };
 		14DE6DAA1F2DC39000A53350 /* خلوتي.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "خلوتي.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14DE6DAD1F2DC39000A53350 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		14DE6DAF1F2DC39100A53350 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		14DE6DB21F2DC39100A53350 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		14DE6DB41F2DC39100A53350 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14DE6DB71F2DC39100A53350 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14DE6DB91F2DC39100A53350 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14DE6DBF1F2DC73C00A53350 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		14DE6DC11F2DCB2D00A53350 /* ForgetPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgetPasswordViewController.swift; sourceTree = "<group>"; };
+		14DE6DC31F2DCBBB00A53350 /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		1C767E8C79D831DF7C03F4F3 /* Pods-خلوتي.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-خلوتي.release.xcconfig"; path = "Pods/Target Support Files/Pods-خلوتي/Pods-خلوتي.release.xcconfig"; sourceTree = "<group>"; };
+		338CEB152EC6242F286AFA9E /* Pods-خلوتي.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-خلوتي.debug.xcconfig"; path = "Pods/Target Support Files/Pods-خلوتي/Pods-خلوتي.debug.xcconfig"; sourceTree = "<group>"; };
+		CB5FC5E6B6E77FB9C38BDDC1 /* Pods______.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = "Pods______.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21D50B8DC10127BB05EA2730 /* Pods______.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,8 +81,11 @@
 		14DE6DA11F2DC39000A53350 = {
 			isa = PBXGroup;
 			children = (
+				147BA03F1F39FEA000A0DCE9 /* TestViewController.swift */,
 				14DE6DAC1F2DC39000A53350 /* خلوتي */,
 				14DE6DAB1F2DC39000A53350 /* Products */,
+				34BFCD4D97FC70DAA0C48538 /* Pods */,
+				8363A81A44E0B82E942496C1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +101,48 @@
 			isa = PBXGroup;
 			children = (
 				14DE6DAD1F2DC39000A53350 /* AppDelegate.swift */,
-				14DE6DAF1F2DC39100A53350 /* ViewController.swift */,
 				14DE6DB11F2DC39100A53350 /* Main.storyboard */,
+				14401A0A1F3B6CDD00743F68 /* ToMoneyViewController.swift */,
+				14401A061F3B30E200743F68 /* ViewFemelRoomsViewController.swift */,
+				14401A081F3B312800743F68 /* ViewMaleRoomsViewController.swift */,
+				14658F721F399C7F00F411F9 /* CondiationViewController.swift */,
+				14DE6DBF1F2DC73C00A53350 /* LoginViewController.swift */,
+				14DE6DC11F2DCB2D00A53350 /* ForgetPasswordViewController.swift */,
+				149DAFD01F39B486006C8911 /* WarintyViewController.swift */,
+				14658F701F3999E100F411F9 /* StartViewController.swift */,
+				14DE6DC31F2DCBBB00A53350 /* RegisterViewController.swift */,
+				14CEFC331F2E52F00082A22E /* OtherViewController.swift */,
+				14CEFC351F2E56220082A22E /* viewRoomsViewController.swift */,
+				14CEFC371F2E5C600082A22E /* RoomResViewController.swift */,
+				14CEFC391F2E770F0082A22E /* viewMyStateViewController.swift */,
+				149DAFD21F39B552006C8911 /* InstructionViewController.swift */,
+				1414BDB11F2F0E26005EA8C1 /* ReqIDViewController.swift */,
+				1414BDB31F2F0E3D005EA8C1 /* RoomTypeViewController.swift */,
+				1414BDB51F2F0E52005EA8C1 /* RoomSectionViewController.swift */,
+				1414BDB71F2F0E6B005EA8C1 /* ResDateViewController.swift */,
+				1414BDB91F2F0E7D005EA8C1 /* ExpierDateViewController.swift */,
 				14DE6DB41F2DC39100A53350 /* Assets.xcassets */,
 				14DE6DB61F2DC39100A53350 /* LaunchScreen.storyboard */,
 				14DE6DB91F2DC39100A53350 /* Info.plist */,
 			);
 			path = "خلوتي";
+			sourceTree = "<group>";
+		};
+		34BFCD4D97FC70DAA0C48538 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				338CEB152EC6242F286AFA9E /* Pods-خلوتي.debug.xcconfig */,
+				1C767E8C79D831DF7C03F4F3 /* Pods-خلوتي.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		8363A81A44E0B82E942496C1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CB5FC5E6B6E77FB9C38BDDC1 /* Pods______.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +152,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 14DE6DBC1F2DC39100A53350 /* Build configuration list for PBXNativeTarget "خلوتي" */;
 			buildPhases = (
+				CF6F3FBE309C52D81510DA74 /* [CP] Check Pods Manifest.lock */,
 				14DE6DA61F2DC39000A53350 /* Sources */,
 				14DE6DA71F2DC39000A53350 /* Frameworks */,
 				14DE6DA81F2DC39000A53350 /* Resources */,
+				AFF3DA8C156B75397769175E /* [CP] Embed Pods Frameworks */,
+				8DE2B936C4E2A6C0FE19C651 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -132,13 +216,86 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		8DE2B936C4E2A6C0FE19C651 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-خلوتي/Pods-خلوتي-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AFF3DA8C156B75397769175E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-خلوتي/Pods-خلوتي-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-خلوتي/Pods-خلوتي-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CF6F3FBE309C52D81510DA74 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-خلوتي-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		14DE6DA61F2DC39000A53350 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14DE6DB01F2DC39100A53350 /* ViewController.swift in Sources */,
+				14658F731F399C7F00F411F9 /* CondiationViewController.swift in Sources */,
+				14DE6DC01F2DC73E00A53350 /* LoginViewController.swift in Sources */,
+				1414BDB61F2F0E52005EA8C1 /* RoomSectionViewController.swift in Sources */,
+				149DAFD11F39B486006C8911 /* WarintyViewController.swift in Sources */,
+				1414BDB41F2F0E3D005EA8C1 /* RoomTypeViewController.swift in Sources */,
+				14CEFC341F2E52F00082A22E /* OtherViewController.swift in Sources */,
+				14CEFC3A1F2E770F0082A22E /* viewMyStateViewController.swift in Sources */,
+				14658F711F3999E100F411F9 /* StartViewController.swift in Sources */,
+				149DAFD31F39B552006C8911 /* InstructionViewController.swift in Sources */,
+				14DE6DC21F2DCB2D00A53350 /* ForgetPasswordViewController.swift in Sources */,
+				14CEFC381F2E5C600082A22E /* RoomResViewController.swift in Sources */,
+				14401A0B1F3B6CDD00743F68 /* ToMoneyViewController.swift in Sources */,
+				1414BDB81F2F0E6B005EA8C1 /* ResDateViewController.swift in Sources */,
 				14DE6DAE1F2DC39000A53350 /* AppDelegate.swift in Sources */,
+				14CEFC361F2E56220082A22E /* viewRoomsViewController.swift in Sources */,
+				14DE6DC41F2DCBBB00A53350 /* RegisterViewController.swift in Sources */,
+				1414BDBA1F2F0E7D005EA8C1 /* ExpierDateViewController.swift in Sources */,
+				147BA0401F39FEA100A0DCE9 /* TestViewController.swift in Sources */,
+				14401A071F3B30E200743F68 /* ViewFemelRoomsViewController.swift in Sources */,
+				1414BDB21F2F0E26005EA8C1 /* ReqIDViewController.swift in Sources */,
+				14401A091F3B312800743F68 /* ViewMaleRoomsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +418,7 @@
 		};
 		14DE6DBD1F2DC39100A53350 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 338CEB152EC6242F286AFA9E /* Pods-خلوتي.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = LA5MZ6Q99M;
@@ -274,6 +432,7 @@
 		};
 		14DE6DBE1F2DC39100A53350 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1C767E8C79D831DF7C03F4F3 /* Pods-خلوتي.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = LA5MZ6Q99M;
@@ -304,6 +463,7 @@
 				14DE6DBE1F2DC39100A53350 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
